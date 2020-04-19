@@ -30,7 +30,7 @@ public class Main {
             else if (x>=50){
                 System.out.printf("1 ");
             }
-            else if (x<50){
+            else {
                 System.out.printf("0 ");
             }
             n--;
